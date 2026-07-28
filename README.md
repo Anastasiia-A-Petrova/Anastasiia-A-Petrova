@@ -1,5 +1,13 @@
 # Hi, I'm Anastasiia 👋
 
+I am a Data Analyst focused on transforming raw data into meaningful insights.
+
+My main interests:
+- product analytics
+- user behavior analysis
+- content analytics
+- data visualization
+
 ## Data Analyst
 
 I analyze data and turn it into actionable insights using Python, SQL and BI tools.
@@ -30,22 +38,22 @@ I analyze data and turn it into actionable insights using Python, SQL and BI too
 
 End-to-end analysis of a YouTube channel using YouTube Data API, Python, SQL and Power BI.
 
-Key skills:
-- API data collection
-- Data transformation
-- Engagement metrics
+**Highlights:**
+- 754 videos analyzed
+- API data collection pipeline
+- Engagement metrics calculation
 - Content segmentation
-- Dashboard creation
+- Interactive Power BI dashboard
 
 🔗 Project:
 [youtube-analytics-gleb-oleynik](https://github.com/Anastasiia-A-Petrova/youtube-analytics-gleb-oleynik)
 
-## 📚 Currently Improving
+## 🌱 Currently Improving
 
 - Advanced SQL
-- Data visualization
 - Product analytics
 - Statistics for Data Analysis
+- Data visualization best practices
 
 ## 📫 Contacts
 
