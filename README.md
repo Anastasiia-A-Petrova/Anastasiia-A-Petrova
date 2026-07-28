@@ -50,4 +50,5 @@ Key skills:
 ## 📫 Contacts
 
 E-mail: anastasiiapetrovam1@gmail.com
+
 LinkedIn: coming soon
