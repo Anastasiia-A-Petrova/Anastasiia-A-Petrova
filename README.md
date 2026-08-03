@@ -38,6 +38,8 @@ My main interests:
 
 ### 🎸 YouTube Channel Analytics
 
+Python | PostgreSQL | YouTube API | Power BI
+
 End-to-end analysis of a YouTube channel using YouTube Data API, Python, SQL and Power BI.
 
 **Highlights:**
@@ -47,11 +49,26 @@ End-to-end analysis of a YouTube channel using YouTube Data API, Python, SQL and
 - Content segmentation
 - Interactive Power BI dashboard
 
-🔗 Project:
+🔗 Repository:
 [youtube-analytics-gleb-oleynik](https://github.com/Anastasiia-A-Petrova/youtube-analytics-gleb-oleynik)
 
+### 📖 Telegram Channels Analytics: English Learning Communities
 
-### Toronto Hate Crime Analysis
+Python | PostgreSQL | Telethon | Power BI
+
+This project explores the performance of educational Telegram channels focused on English language learning.
+
+**Highlights:**
+- collected and processed 1,000+ Telegram posts from multiple channels;
+- built a data pipeline with Telethon and Python;
+- analyzed content performance, engagement and publishing patterns;
+- created SQL queries for exploratory analysis and rankings;
+- built an interactive Power BI dashboard for channel comparison.
+
+🔗 Repository:
+[telegram-channel-analysis](https://github.com/Anastasiia-A-Petrova/telegram-channel-analysis)
+
+### 👮‍♂️ Toronto Hate Crime Analysis
 
 Python | PostgreSQL | GeoPandas | Power BI
 
