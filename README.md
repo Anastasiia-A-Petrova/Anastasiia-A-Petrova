@@ -68,6 +68,23 @@ This project explores the performance of educational Telegram channels focused o
 🔗 Repository:
 [telegram-channel-analysis](https://github.com/Anastasiia-A-Petrova/telegram-channel-analysis)
 
+### 🤖 HH Job Bot
+
+Python | Telegram Bot | HH.ru API
+
+Telegram bot for searching job vacancies using the HH.ru API with interactive filters and pagination.
+
+**Highlights:**
+
+- HH.ru API integration
+- Interactive Telegram interface
+- Profession, city and work format filters
+- Custom search queries
+- Vacancy pagination
+
+🔗 Repository: 
+[hh-job-bot](https://github.com/Anastasiia-A-Petrova/hh-job-bot)
+
 ### 👮‍♂️ Toronto Hate Crime Analysis
 
 Python | PostgreSQL | GeoPandas | Power BI
