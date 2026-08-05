@@ -74,7 +74,7 @@ Python | Telegram Bot API | hh.ru API | Render
 
 Telegram bot for searching vacancies through hh.ru API.
 
-Highlights:
+**Highlights:**
 
 - Telegram bot interface with inline keyboards
 - API-based vacancy search
