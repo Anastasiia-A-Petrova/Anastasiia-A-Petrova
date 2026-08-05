@@ -68,19 +68,20 @@ This project explores the performance of educational Telegram channels focused o
 🔗 Repository:
 [telegram-channel-analysis](https://github.com/Anastasiia-A-Petrova/telegram-channel-analysis)
 
-### 🤖 HH Job Bot
+### 🤖 HH Job Search Telegram Bot
 
-Python | Telegram Bot | HH.ru API
+Python | Telegram Bot API | hh.ru API | Render
 
-Telegram bot for searching job vacancies using the HH.ru API with interactive filters and pagination.
+Telegram bot for searching vacancies through hh.ru API.
 
-**Highlights:**
+Highlights:
 
-- HH.ru API integration
-- Interactive Telegram interface
+- Telegram bot interface with inline keyboards
+- API-based vacancy search
 - Profession, city and work format filters
-- Custom search queries
-- Vacancy pagination
+- Pagination of search results
+- Custom profession queries
+- Cloud deployment with Render Webhook
 
 🔗 Repository: 
 [hh-job-bot](https://github.com/Anastasiia-A-Petrova/hh-job-bot)
