@@ -36,6 +36,25 @@ My main interests:
 
 ## 📊 Featured Projects
 
+### 🛒 GA4 Ecommerce Analytics
+
+BigQuery SQL | GA4 | Power BI
+
+Ecommerce analysis using Google Analytics 4 event data, BigQuery SQL, and Power BI.
+
+**Highlights:**
+
+- 4.3M+ GA4 events analyzed
+- Data exploration and quality validation
+- Ecommerce metrics calculation (revenue, transactions, AOV)
+- Customer segmentation and retention analysis
+- Product performance analysis
+- Marketing channel and audience analysis
+- Interactive Power BI dashboard with 4 analytical pages
+
+🔗 Repository: [ga4-ecommerce-analytics](https://github.com/Anastasiia-A-Petrova/ga4-ecommerce-analytics)
+
+
 ### 🎸 YouTube Channel Analytics
 
 Python | PostgreSQL | YouTube API | Power BI
@@ -52,6 +71,7 @@ End-to-end analysis of a YouTube channel using YouTube Data API, Python, SQL and
 🔗 Repository:
 [youtube-analytics-gleb-oleynik](https://github.com/Anastasiia-A-Petrova/youtube-analytics-gleb-oleynik)
 
+
 ### 📖 Telegram Channels Analytics: English Learning Communities
 
 Python | PostgreSQL | Telethon | Power BI
@@ -67,6 +87,7 @@ This project explores the performance of educational Telegram channels focused o
 
 🔗 Repository:
 [telegram-channel-analysis](https://github.com/Anastasiia-A-Petrova/telegram-channel-analysis)
+
 
 ### 🤖 HH Job Search Telegram Bot
 
@@ -85,6 +106,7 @@ Telegram bot for searching vacancies through hh.ru API.
 
 🔗 Repository: 
 [hh-job-bot](https://github.com/Anastasiia-A-Petrova/hh-job-bot)
+
 
 ### 👮‍♂️ Toronto Hate Crime Analysis
 
