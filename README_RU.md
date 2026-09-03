@@ -1,13 +1,14 @@
 # Привет, меня зовут Анастасия 👋
 
-Я — аналитик данных, создающий проекты полного аналитического цикла с использованием Python, SQL и BI-инструментов.
+Я — Junior Data Analyst, создающий проекты полного аналитического цикла с использованием Python, SQL, Excel и BI-инструментов.
 
-Мои проекты охватывают весь процесс анализа данных: от сбора и очистки данных до их преобразования, исследовательского анализа, расчёта ключевых метрик и создания интерактивных дашбордов.
+Мои проекты охватывают весь процесс анализа данных: от сбора и очистки данных до их преобразования, исследовательского анализа, расчёта ключевых метрик, бизнес-анализа и создания интерактивных дашбордов.
 
 ## 🛠 Технологический стек
 
 ![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
+![Excel](https://img.shields.io/badge/Excel-Analytics-green?logo=microsoftexcel)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
 ![BigQuery](https://img.shields.io/badge/BigQuery-Google%20Cloud-blue?logo=googlecloud)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)
@@ -19,6 +20,7 @@
 
 * продуктовая аналитика
 * анализ поведения пользователей
+* анализ рынков и бизнес-показателей
 * контент-аналитика
 * визуализация данных
 * подготовка аналитических отчётов для бизнеса
@@ -37,6 +39,7 @@
 * Views
 * Exploratory Data Analysis (EDA)
 * анализ KPI
+* бизнес-анализ
 
 ### 🐍 Python
 
@@ -44,17 +47,32 @@
 * NumPy
 * очистка и предобработка данных
 * Feature Engineering
+* работа с REST API
+* автоматизированный сбор данных
 
-### 📈 Визуализация
+### 📈 Excel
+
+* Microsoft Excel 2019
+* Power Query
+* преобразование и очистка данных
+* Pivot Tables
+* расчёт KPI
+* проверка качества данных
+* создание аналитических дашбордов
+* подготовка отчётности для бизнеса
+
+### 📊 Визуализация
 
 * Power BI
 * DAX
+* Excel Dashboards
 * Matplotlib
 * Seaborn
 
 ### 🌐 Сбор данных
 
 * REST API
+* Steam APIs
 * YouTube Data API
 * Telegram API
 * сбор данных из веб-источников
@@ -62,6 +80,30 @@
 ---
 
 # 📊 Портфолио проектов
+
+## 🎮 Steam Market Opportunity Analysis
+
+**Python | Steam APIs | Excel | Power Query**
+
+Проект полного цикла по анализу рынка игр в Steam с целью определить наиболее перспективные рыночные сегменты для разработчика с ограниченными ресурсами.
+
+<img src="https://raw.githubusercontent.com/Anastasiia-A-Petrova/steam-market-opportunity-analysis/main/images/dashboard.png" width="700" alt="Steam Market Opportunity Analysis Dashboard">
+
+**Основные результаты:**
+
+* проанализировано около **1000 игр Steam**, выпущенных в 2024–2026 годах;
+* реализован сбор данных через Steam Store API, Steam Web API и SteamSpy;
+* построен Python-пайплайн сбора и подготовки данных;
+* проведён анализ рыночного спроса, конкуренции и ценового барьера;
+* разработан составной **Opportunity Score** для оценки перспективности сегментов;
+* оценён размер рынка на основе приблизительного количества владельцев игр;
+* проведён sensitivity analysis для проверки устойчивости модели к изменению весов;
+* создан интерактивный Excel-дашборд с использованием Power Query и формул Excel;
+* наиболее перспективным сегментом по итоговой модели определён **Massively Multiplayer**.
+
+🔗 **Репозиторий:** [steam-market-opportunity-analysis](https://github.com/Anastasiia-A-Petrova/steam-market-opportunity-analysis)
+
+---
 
 ## 🛒 GA4 Ecommerce Analytics
 
@@ -81,7 +123,7 @@
 * анализ маркетинговых каналов и аудитории;
 * интерактивный Power BI дашборд с четырьмя аналитическими страницами.
 
-🔗 **Репрозиторий**: [ga4-ecommerce-analytics](https://github.com/Anastasiia-A-Petrova/ga4-ecommerce-analytics)
+🔗 **Репозиторий:** [ga4-ecommerce-analytics](https://github.com/Anastasiia-A-Petrova/ga4-ecommerce-analytics)
 
 ---
 
@@ -111,7 +153,7 @@
 
 Проект полного цикла по анализу YouTube-канала **Gleb Oleinik** с использованием YouTube Data API, Python, PostgreSQL и Power BI.
 
-<img src="https://raw.githubusercontent.com/Anastasiia-A-Petrova/youtube-analytics-gleb-oleynik/main/images/overview.png" width="700">
+<img src="https://raw.githubusercontent.com/Anastasiia-A-Petrova/youtube-analytics-gleb-oleynik/main/images/overview.png" width="700" alt="YouTube Channel Analytics Dashboard">
 
 **Основные результаты:**
 
@@ -170,6 +212,7 @@ Telegram-бот для поиска вакансий с использовани
 
 * продвинутые возможности SQL;
 * продуктовую аналитику;
+* unit economics;
 * статистику для анализа данных;
 * современные подходы к визуализации данных.
 
@@ -178,3 +221,6 @@ Telegram-бот для поиска вакансий с использовани
 ## 📫 Контакты
 
 **Email:** [anastasiiapetrovam1@gmail.com](mailto:anastasiiapetrovam1@gmail.com)
+
+**LinkedIn:** [linkedin.com/in/anastasiia-a-petrova](https://www.linkedin.com/in/anastasiia-a-petrova)
+
