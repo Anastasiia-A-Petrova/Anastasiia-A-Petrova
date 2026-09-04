@@ -13,6 +13,7 @@ My projects cover the full analytics workflow: data collection, data cleaning, t
 ![BigQuery](https://img.shields.io/badge/BigQuery-Google%20Cloud-blue?logo=googlecloud)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?logo=pandas)
+![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-orange?logo=n8n)
 
 ---
 
@@ -20,6 +21,7 @@ My main interests:
 
 * product analytics
 * user behavior analysis
+* data automation and analytics pipelines
 * market analysis
 * content analytics
 * data visualization
@@ -77,6 +79,15 @@ My main interests:
 * Telegram API
 * Web data collection
 
+**Automation**
+
+* n8n
+* Workflow automation
+* Scheduled data collection
+* API integration
+* Pipeline orchestration
+* Automated database loading
+
 ---
 
 # 📊 Featured Projects
@@ -120,6 +131,30 @@ End-to-end content analytics project focused on Telegram channel performance and
 * Built an interactive Power BI dashboard
 
 🔗 Repository: [telegram-channel-analysis](https://github.com/Anastasiia-A-Petrova/telegram-channel-analysis)
+
+---
+
+## 🤖 Automated Gacha Game Data Pipeline
+
+Python | REST APIs | PostgreSQL | n8n
+
+Automated data collection pipeline for gacha game analytics, combining API-based data collection, Python processing, PostgreSQL storage and workflow automation.
+
+<img src="https://raw.githubusercontent.com/Anastasiia-A-Petrova/steam-gacha-activity-monitor/main/images/pipeline.png" width="700" alt="Steam Gacha Activity Pipeline">
+
+<img src="https://raw.githubusercontent.com/Anastasiia-A-Petrova/steam-gacha-activity-monitor/main/images/dashboard.png" width="700" alt="Steam Gacha Activity Dashboard">
+
+**Highlights:**
+
+* automated data collection from external APIs;
+* built a Python data collection service;
+* processed and transformed raw API data;
+* loaded structured data into PostgreSQL;
+* orchestrated the workflow using n8n;
+* implemented pipeline status monitoring;
+* designed the project as a repeatable data collection workflow.
+
+🔗 Repository: [steam-gacha-activity-monitor](https://github.com/Anastasiia-A-Petrova/steam-gacha-activity-monitor)
 
 ---
 
