@@ -13,6 +13,7 @@
 ![BigQuery](https://img.shields.io/badge/BigQuery-Google%20Cloud-blue?logo=googlecloud)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?logo=pandas)
+![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-orange?logo=n8n)
 
 ---
 
@@ -20,6 +21,7 @@
 
 * продуктовая аналитика
 * анализ поведения пользователей
+* автоматизация сбора данных и аналитических процессов
 * анализ рынков и бизнес-показателей
 * контент-аналитика
 * визуализация данных
@@ -77,31 +79,40 @@
 * Telegram API
 * сбор данных из веб-источников
 
+### 🤖 Автоматизация
+
+* n8n
+* автоматизация рабочих процессов
+* автоматизированный сбор данных
+* интеграция API
+* оркестрация аналитических процессов
+* автоматическая загрузка данных в PostgreSQL
+
 ---
 
 # 📊 Портфолио проектов
 
-## 🎮 Steam Market Opportunity Analysis
+## 🤖 Автоматизированный пайплайн сбора данных о Gacha-играх
 
-**Python | Steam APIs | Excel | Power Query**
+**Python | REST APIs | PostgreSQL | n8n**
 
-Проект полного цикла по анализу рынка игр в Steam с целью определить наиболее перспективные рыночные сегменты для разработчика с ограниченными ресурсами.
+Автоматизированный пайплайн для сбора и подготовки данных о Gacha-играх, объединяющий получение данных через API, обработку в Python, хранение в PostgreSQL и автоматизацию рабочих процессов через n8n.
 
-<img src="https://raw.githubusercontent.com/Anastasiia-A-Petrova/steam-market-opportunity-analysis/main/images/dashboard.png" width="700" alt="Steam Market Opportunity Analysis Dashboard">
+<img src="https://raw.githubusercontent.com/Anastasiia-A-Petrova/steam-gacha-activity-monitor/main/images/pipeline.png" width="700" alt="Steam Gacha Activity Pipeline">
+
+<img src="https://raw.githubusercontent.com/Anastasiia-A-Petrova/steam-gacha-activity-monitor/main/images/dashboard.png" width="700" alt="Steam Gacha Activity Dashboard">
 
 **Основные результаты:**
 
-* проанализировано около **1000 игр Steam**, выпущенных в 2024–2026 годах;
-* реализован сбор данных через Steam Store API, Steam Web API и SteamSpy;
-* построен Python-пайплайн сбора и подготовки данных;
-* проведён анализ рыночного спроса, конкуренции и ценового барьера;
-* разработан составной **Opportunity Score** для оценки перспективности сегментов;
-* оценён размер рынка на основе приблизительного количества владельцев игр;
-* проведён sensitivity analysis для проверки устойчивости модели к изменению весов;
-* создан интерактивный Excel-дашборд с использованием Power Query и формул Excel;
-* наиболее перспективным сегментом по итоговой модели определён **Massively Multiplayer**.
+* автоматизированный сбор данных из внешних API;
+* разработка Python-сервиса для получения и обработки данных;
+* очистка и преобразование исходных данных;
+* загрузка структурированных данных в PostgreSQL;
+* оркестрация процесса сбора данных через n8n;
+* контроль статуса выполнения пайплайна;
+* построение повторяемого процесса сбора данных без ручного запуска отдельных этапов.
 
-🔗 **Репозиторий:** [steam-market-opportunity-analysis](https://github.com/Anastasiia-A-Petrova/steam-market-opportunity-analysis)
+🔗 **Репозиторий:** [steam-gacha-activity-monitor](https://github.com/Anastasiia-A-Petrova/steam-gacha-activity-monitor)
 
 ---
 
@@ -144,6 +155,30 @@
 * разработан интерактивный Power BI дашборд.
 
 🔗 **Репозиторий:** [telegram-channel-analysis](https://github.com/Anastasiia-A-Petrova/telegram-channel-analysis)
+
+---
+
+## 🎮 Steam Market Opportunity Analysis
+
+**Python | Steam APIs | Excel | Power Query**
+
+Проект полного цикла по анализу рынка игр в Steam с целью определить наиболее перспективные рыночные сегменты для разработчика с ограниченными ресурсами.
+
+<img src="https://raw.githubusercontent.com/Anastasiia-A-Petrova/steam-market-opportunity-analysis/main/images/dashboard.png" width="700" alt="Steam Market Opportunity Analysis Dashboard">
+
+**Основные результаты:**
+
+* проанализировано около **1000 игр Steam**, выпущенных в 2024–2026 годах;
+* реализован сбор данных через Steam Store API, Steam Web API и SteamSpy;
+* построен Python-пайплайн сбора и подготовки данных;
+* проведён анализ рыночного спроса, конкуренции и ценового барьера;
+* разработан составной **Opportunity Score** для оценки перспективности сегментов;
+* оценён размер рынка на основе приблизительного количества владельцев игр;
+* проведён sensitivity analysis для проверки устойчивости модели к изменению весов;
+* создан интерактивный Excel-дашборд с использованием Power Query и формул Excel;
+* наиболее перспективным сегментом по итоговой модели определён **Massively Multiplayer**.
+
+🔗 **Репозиторий:** [steam-market-opportunity-analysis](https://github.com/Anastasiia-A-Petrova/steam-market-opportunity-analysis)
 
 ---
 
