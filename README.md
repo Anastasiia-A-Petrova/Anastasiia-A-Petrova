@@ -1,8 +1,8 @@
 # Hi, I'm Anastasiia 👋
 
-I am a Junior Data Analyst building end-to-end analytics projects using Python, SQL, Excel and BI tools.
+I am a Junior Data Analyst building end-to-end analytics projects and data-driven applications using Python, SQL, Excel, Power BI and APIs.
 
-My projects cover the full analytics workflow: data collection, data cleaning, transformation, exploratory analysis, KPI calculation, business analysis and dashboard development.
+My projects cover the full analytics workflow — from data collection and cleaning to analysis, KPI development, visualization and automation.
 
 ## 🛠 Tech Stack
 
@@ -25,7 +25,7 @@ My main interests:
 * market analysis
 * content analytics
 * data visualization
-* business-oriented reporting
+* building practical data-driven applications
 
 ---
 
@@ -52,6 +52,20 @@ My main interests:
 * REST APIs
 * Automated data collection
 
+**Product & Automation**
+
+* React
+* JavaScript
+* Node.js
+* Express
+* REST APIs
+* Telegram Mini Apps
+* MAX Mini Apps
+* n8n
+* API integration
+* Workflow automation
+* Cloud deployment
+
 **Excel**
 
 * Excel 2019
@@ -70,23 +84,6 @@ My main interests:
 * Excel Dashboards
 * Matplotlib
 * Seaborn
-
-**Data Collection**
-
-* REST APIs
-* Steam APIs
-* YouTube Data API
-* Telegram API
-* Web data collection
-
-**Automation**
-
-* n8n
-* Workflow automation
-* Scheduled data collection
-* API integration
-* Pipeline orchestration
-* Automated database loading
 
 ---
 
@@ -155,6 +152,40 @@ Automated data collection pipeline for gacha game analytics, combining API-based
 * designed the project as a repeatable data collection workflow.
 
 🔗 Repository: [steam-gacha-activity-monitor](https://github.com/Anastasiia-A-Petrova/steam-gacha-activity-monitor)
+
+---
+
+## ЕСТЬ ПОВОД! — Greeting & Holiday Mini App 
+
+React | Vite | Node.js | REST API | Telegram / MAX Mini App
+
+A production-ready greeting card application for discovering holidays and creating personalized digital greeting cards.
+
+The project combines a user-facing web application with external APIs, dynamic content, image processing and platform integrations.
+
+**Highlights:**
+
+* Built a complete React/Vite web application from scratch
+
+* Implemented holiday and Orthodox calendar data through REST APIs
+
+* Created personalized greeting card generation
+
+* Implemented dynamic card image export
+
+* Integrated external image sources and image proxying
+
+* Built download and sharing workflows for generated cards
+
+* Developed separate integrations for Telegram and MAX Mini Apps
+
+* Built and deployed independent frontend and backend services
+
+* Implemented personal dates and calendar functionality
+
+* Designed the application as a practical user-facing product
+
+🔗 Repository: [est-povod-max](https://github.com/Anastasiia-A-Petrova/est-povod-max)
 
 ---
 
@@ -258,4 +289,6 @@ Telegram bot for searching vacancies through hh.ru API.
 Email: [anastasiiapetrovam1@gmail.com](mailto:anastasiiapetrovam1@gmail.com)
 
 LinkedIn: [linkedin.com/in/anastasiia-a-petrova](https://www.linkedin.com/in/anastasiia-a-petrova)
+
+Website: [anastasiia-a-petrova.github.io/portfolio](https://anastasiia-a-petrova.github.io/portfolio/)
 
